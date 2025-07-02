@@ -1,0 +1,13 @@
+using dataset cache path:/home/mj/ICCV/data/SCAPE/cache/train.pt
+  --> loading dataset from cache
+Training...
+  0%|          | 0/20 [00:00<?, ?it/s]using dataset cache path:/home/mj/ICCV/data/SCAPE/cache/train.pt
+  --> loading dataset from cache
+Training...
+  0%|          | 0/20 [00:00<?, ?it/s]using dataset cache path:/home/mj/ICCV/data/SCAPE/cache/train.pt
+  --> loading dataset from cache
+Training...
+  0%|          | 0/20 [00:00<?, ?it/s]using dataset cache path:/home/mj/ICCV/data/SCAPE/cache/train.pt
+  --> loading dataset from cache
+Training...
+  0%|          | 0/20 [00:00<?, ?it/s]
